@@ -1,1 +1,4 @@
 theme: jekyll-theme-minimal
+webrick:
+  headers:
+    My-Header: Lancaster University CSML
