@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
-webrick:
-  headers:
-    My-Header: Lancaster University CSML
+title: Lancaster University CSML
+description: Webpage for Lancaster University Computational Statistics and Machine Learning group.
