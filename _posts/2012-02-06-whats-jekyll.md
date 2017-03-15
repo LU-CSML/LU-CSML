@@ -1,6 +1,6 @@
 <!--
 ---
-layout: post
+layout: post 3
 title: What's Jekyll?
 ---
 
