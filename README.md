@@ -51,7 +51,9 @@ title: About
 By default Hyde ships with a sidebar that affixes it's content to the bottom of the sidebar. You can optionally disable this by removing the `.sidebar-sticky` class from the sidebar's `.container`. Sidebar content will then normally flow from top to bottom.
 
 ```html
+-->
 <!-- Default sidebar -->
+
 <div class="sidebar">
   <div class="container sidebar-sticky">
     ...
@@ -67,7 +69,7 @@ By default Hyde ships with a sidebar that affixes it's content to the bottom of 
 ```
 
 
-### Themes
+<!-- ### Themes
 
 Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
 
@@ -120,4 +122,5 @@ Hyde has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
 -->
