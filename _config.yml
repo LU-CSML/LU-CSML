@@ -11,13 +11,12 @@ tagline:          ''
 description:      'A place for ....'
 
 author:
-  name:           'Lancs'
-  url:            http://www.lancaster.ac.uk/
-
+  name:           ' '
+  url:            https://twitter.com/mdo
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:          https://github.com/LU-CSML/lu-csml.github.io/
+  repo:           https://github.com/poole/hyde
