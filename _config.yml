@@ -9,12 +9,10 @@ permalink:        pretty
 title:            Lancs CSML
 tagline:          ''
 description:      'A place for ....'
-url:              http://hyde.getpoole.com
-baseurl:          /
 
 author:
-  name:           ' '
-  url:            https://twitter.com/mdo
+  name:           'Lancs'
+  url:            http://www.lancaster.ac.uk/
 
 paginate:         5
 
