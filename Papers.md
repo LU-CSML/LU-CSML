@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
+title: Papers
 ---
 
-# Papers
 
 <p class="message">
 	A list of papers we have read:
