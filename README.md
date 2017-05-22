@@ -6,7 +6,9 @@ General notes:
 
 [optional] an optional argument 
 
-In this flavour of markdown a colon \: needs to be proceeded by an escape character\: <pre><code> \: </code></pre>
+In this flavour of markdown the following need a backslash (escape) character \:
+
+    : < > # 
 
 \# big title
 
@@ -34,8 +36,8 @@ file layout\:
 
 
     ---
-    layout\: post
-    title\: <title_of_post>
+    layout: post
+    title: <title_of_post>
     ---
 
 	<enter_message>
@@ -96,6 +98,7 @@ By default Hyde ships with a sidebar that affixes it's content to the bottom of 
 
 ```html
 -->
+
 <!-- Default sidebar -->
 
 <div class="sidebar">
@@ -112,7 +115,7 @@ By default Hyde ships with a sidebar that affixes it's content to the bottom of 
 </div>
 ```
 
-
+<!--
 <!-- ### Themes
 
 Hyde ships with eight optional themes based on the [base16 color scheme](https://github.com/chriskempson/base16). Apply a theme to change the color scheme (mostly applies to sidebar and links).
@@ -166,3 +169,5 @@ Hyde has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
+
+-->
