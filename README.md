@@ -5,7 +5,7 @@ General notes:
 <text> indicates the text or message 
 [optional] an optional argument 
 
-In this flavour of markdown a colon \: needs to be proceeded by an escape character\: <pre><code> \: <\code><\pre>
+In this flavour of markdown a colon \: needs to be proceeded by an escape character\: <pre><code> \: </code></pre>
 
 \# big title
 
