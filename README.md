@@ -2,7 +2,8 @@
 
 General notes:
 
-<text> indicates the text or message 
+&gt text &lt indicates the text or message
+
 [optional] an optional argument 
 
 In this flavour of markdown a colon \: needs to be proceeded by an escape character\: <pre><code> \: </code></pre>
@@ -19,7 +20,7 @@ Use this for announcements, upcoming talks etc. They will appear on the front pa
 
 How to submit\:
 
-create a file in the *_posts* directory with the following name format\:
+Create a file in the *_posts* directory with the following name format\:
 
 //
 YYYY-MM-DD-<title_of_post>.md*
