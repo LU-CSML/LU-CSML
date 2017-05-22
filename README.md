@@ -2,7 +2,7 @@
 
 General notes:
 
-&gt text &lt indicates the text or message
+ \<text\> indicates the text or message to be entered
 
 [optional] an optional argument 
 
