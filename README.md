@@ -20,17 +20,19 @@ Use this for announcements, upcoming talks etc. They will appear on the front pa
 How to submit\:
 
 create a file in the *_posts* directory with the following name format\:
+
 //
 YYYY-MM-DD-<title_of_post>.md*
-//
+\\
+
 The date is especially important as it will ensure the announcements are in the correct order.
 
 file layout\:
 
-//
+
 ---
-layout: post
-title: <title_of_post>
+layout\: post
+title\: <title_of_post>
 ---
 
 <enter_message>
@@ -39,7 +41,7 @@ title: <title_of_post>
 
 [<more_text>]
 
-//
+
 
 <!-- # Hyde
 
