@@ -13,8 +13,10 @@ In this flavour of markdown a colon \: needs to be proceeded by an escape charac
 \#\#\# medium title
 
 \#\#\#\#\#\# small title
- 
+
+---
 # Posts
+---
 
 Use this for announcements, upcoming talks etc. They will appear on the front page in chronological order
 
@@ -22,25 +24,25 @@ How to submit\:
 
 Create a file in the *_posts* directory with the following name format\:
 
-//
-YYYY-MM-DD-<title_of_post>.md*
-\\
+
+    YYYY-MM-DD-<title_of_post>.md
+
 
 The date is especially important as it will ensure the announcements are in the correct order.
 
 file layout\:
 
 
----
-layout\: post
-title\: <title_of_post>
----
+    ---
+    layout\: post
+    title\: <title_of_post>
+    ---
 
-<enter_message>
+	<enter_message>
 
-[### <sub_title>]
+	[### <sub_title>]
 
-[<more_text>]
+	[<more_text>]
 
 
 
@@ -50,7 +52,7 @@ Hyde is a brazen two-column [Jekyll](http://jekyllrb.com) theme that pairs a pro
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
-
+	
 ## Contents
 
 - [Usage](#usage)
@@ -164,5 +166,3 @@ Hyde has two branches, but only one is used for active development.
 Open sourced under the [MIT license](LICENSE.md).
 
 <3
-
--->
