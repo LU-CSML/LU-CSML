@@ -5,21 +5,23 @@ General notes:
 <text> indicates the text or message 
 [optional] an optional argument 
 
+In this flavour of markdown a colon \: needs to be proceeded by an escape character\: // \: //
+ 
 # Posts
 
 Use this for announcements, upcoming talks etc. They will appear on the front page in chronological order
 
-How to submit:
+How to submit\:
 
-create a file in the *_posts* directory with the following name format:
-
-*YYYY-MM-DD-<title_of_post>.md*
-
+create a file in the *_posts* directory with the following name format\:
+//
+YYYY-MM-DD-<title_of_post>.md*
+//
 The date is especially important as it will ensure the announcements are in the correct order.
 
-file layout:
+file layout\:
 
-\begin{verbatim}
+//
 ---
 layout: post
 title: <title_of_post>
@@ -29,9 +31,9 @@ title: <title_of_post>
 
 [### <sub_title>]
 
-<more_text>
+[<more_text>]
 
-\end{verbatim}
+//
 
 <!-- # Hyde
 
