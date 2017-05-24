@@ -6,7 +6,7 @@ General notes:
 
 [optional] an optional argument 
 
-In this flavour of markdown the following need a backslash (escape) character \:
+In this flavour of markdown (kramdown) the following need a backslash (escape) character \:
 
     : < > # 
 
