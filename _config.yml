@@ -6,9 +6,9 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Lancs CSML
+title:            LU CSML
 tagline:          ' '
-description:      'A place for ....'
+description:      ''
 url:              https://lu-csml.github.io
 baseurl:          /
 

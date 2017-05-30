@@ -3,9 +3,11 @@ layout: page
 title: Papers
 ---
 
-<p class="message">
-	01/06/2017 - Discontinuous Hamiltonian Monte Carlo for sampling discrete parameters - Nishimura et al <a href="https://arxiv.org/abs/1705.08510">arXiv</a>
-</p>
+
+<h2>2017</h2>
 
 
-<a href="https://arxiv.org/abs/1705.08510">arXiv</a>
+<ul>
+<li>
+01/06 <br> Nishimura et al <em>Discontinuous Hamiltonian Monte Carlo for sampling discrete parameters</em>  [<a href="https://arxiv.org/abs/1705.08510">arXiv</a>]
+</li></ul>
