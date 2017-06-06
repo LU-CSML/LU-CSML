@@ -1,0 +1,25 @@
+<p>
+<h2>Online inference and model selection using sequential Monte Carlo</h2>
+
+
+Motor unit number estimation (MUNE) has traditionally been used to
+measure the degeneration of the motor system upon the onset of rare
+incurable degenerative diseases such as Motor Neurone Disease.
+Recently researchers at the Miami Institute for the cure of paralysis
+have found another application for MUNE  in the assessment of stem cell
+therapies for spinal regeneration.  An objective  biologically plausible
+method for estimation of the extent of regeneration of the nervous
+system is required.  The initial model of Ridall et al., 2007 used a
+highly computer intensive method called reversible jump MCMC  to carry
+out model selection using assumptions which were thought to be
+biologically plausible,  RJMCMC, however,  has limitations and fails
+when the dimension of the model is high.  Recently we have been working
+on an online technique for estimation and model selection using
+sequential Monte Carlo. We look on our model as a state space model
+where conditional on the states, both the observation and state
+equations are completely tractable.  This enables efficient recursions
+for online estimation.
+In this talk I will introduce the model of Ridall et al, 2007, the
+modifications that are needed to carry out online inference and model
+selection,  and finally speculate on other applications where this
+technique may be useful and appropriate.

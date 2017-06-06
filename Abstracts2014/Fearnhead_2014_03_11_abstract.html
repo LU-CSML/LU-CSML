@@ -1,0 +1,7 @@
+<p>
+<h2>Reparameterisations for particle MCMC</h2>
+
+Consider inference for a state-space model with unknown parameters. Standard implementation of Particle MCMC involves using an MCMC kernel to propose a new value for the parameters, and then a particle filter to propose a new value for the path of the state process conditional on this value for the parameters. However alternative approaches are possible. For example we could use the particle filter to update some of the parameters (as well as the state). This reduces the dependence in the MCMC update, but at the expense of greater Monte Carlo error when running the particle filter. We consider generalisations of this approach, based on introducing pseudo observations. This allows us to run the particle filter conditional on part of the information about the current set of parameters and state path.
+
+We give examples of how this approach can improve the mixing in particle Gibbs, and help with the initialisation of the particle filter.
+

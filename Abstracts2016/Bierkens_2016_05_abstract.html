@@ -1,0 +1,8 @@
+<p>
+<h2>Super-efficient sampling using Zig Zag Monte Carlo</h2>
+
+
+In recent work (Bierkens, Roberts 2015, http://arxiv.org/abs/1509.00302) we stumbled upon an elementary piecewise deterministic Markov process ("zig zag process") which can be extended to have a general (absolutely continuous) invariant probability distribution in R^n. We develop MCMC based on the zig zag process. The 
+sample paths of the zig zag process can be efficiently simulated by rejection sampling of the switching times. It is possible to perform 
+exact sub-sampling with the zig zag process, which makes this sampling method extremely promising for applications in big data and/or complex 
+models. Somewhat mysteriously, using this method we can achieve a higher efficiency than independent draws from the correct distribution would allow!

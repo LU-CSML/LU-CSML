@@ -1,0 +1,8 @@
+For many complicated models inference is challenging because likelihood functions cannot easily be numerical evaluated.  There has been much recent study of "likelihood-free" approaches, such as Approximate Bayesian Computation (ABC) which favour parameter values for which simulated data from the model is similar to the observed data.
+
+<p>
+
+ 
+A bottleneck in likelihood-free methods is the time taken to run simulations from the model.  This talk considers the strategy of stopping simulations early if it looks unlikely that they will produce a good match to the observations.  An ABC algorithm is proposed which does this without altering the target distribution.  Results on how to tune the algorithm and a simple practical example are also presented.
+
+

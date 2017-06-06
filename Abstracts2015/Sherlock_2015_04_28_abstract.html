@@ -1,0 +1,27 @@
+<p>
+<h2>Delayed acceptance particle marginal random walk Metropolis algorithms
+and their optimisation</h2>
+
+Delayed-acceptance Metropolis-Hastings (DA-MH) and delayed-acceptance
+pseudo-marginal Metropolis-Hastings (DA-PsMMH) algorithms can be applied
+when it is computationally expensive to calculate the true posterior or
+an unbiased stochastic approximation thereof, but a computationally
+cheap deterministic approximation is available. An initial accept-reject
+stage uses the cheap approximation for computing the Metropolis-Hastings
+ratio; proposals which are accepted at this stage are then subjected to
+a further accept-reject step which corrects for the error in the
+approximation. Since the expensive posterior, or the approximation
+thereof, is only evaluated for proposals which are accepted at the first
+stage, the cost of the algorithm is reduced. 
+
+<br><br>
+
+We focus on the random
+walk Metropolis (RWM) and consider the DA-PsMRWM, of which the DA-RWM is
+a special case. Justified by a limiting diffusion argument, we develop
+theoretical expressions for limiting efficiency and acceptance rates in
+high dimension which inform a practical strategy for algorithm tuning. A
+simulation study verifies a number of heuristic properties suggested by
+our theory. For the example considered, our optimised DA-PsMRWM
+algorithm is nearly an order of magnitude more efficient than the
+equivalent optimised PsMRWM algorithm.

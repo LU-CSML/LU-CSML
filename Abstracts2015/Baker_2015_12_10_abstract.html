@@ -1,0 +1,2 @@
+Hamiltonian Monte Carlo is a Metropolis-Hastings algorithm which explores the parameter space rapidly and has very high acceptance rates. But it is quite a beast to tune, and requires the calculation of the derivative of the log posterior - bit of a pain. STAN is a way to implement HMC automatically. Simply program your model in, and STAN does all the differentiation and tuning for you. The differentiation is exact to boot. In this talk I'll walk through using STAN to implement efficient MCMC samplers. I'll also talk about its R interface, RStan.
+

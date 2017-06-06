@@ -1,0 +1,14 @@
+<p>
+<h2>Particle Metropolis adjusted Langevin algorithms</h2>
+
+It is well known that the efficiency of an MCMC sampler is dependent not only on the choice of proposal distribution, but also how the proposal is tuned. Using information about the target distribution, such as its local geometry, within the proposal has been shown to greatly improve the mixing of the Markov chain compared to the simpler random walk Metropolis (RWM) proposal. For example, the Metropolis adjusted Langevin algorithm (MALA) uses the gradient of the target within the proposal to steer the proposed parameters towards regions of higher density. Furthermore, theoretical results on the optimal scaling and asymptotic acceptance rate for this proposal have been established.
+
+<br><br>
+
+For many complex models the likelihood function is often intractable, but using pseudo-marginal MCMC, we can still design MCMC algorithms to sample from the target distribution where we replace the intractable likelihood with an unbiased estimate. However, if the likelihood is intractable, how can we create a MALA proposal?
+
+<br><br>
+
+In this talk I'll outline an algorithm, which we call particle MALA, that can be used to approximate the gradient of the target for use within the proposal. Furthermore, I'll present theoretical results establishing the optimal scaling and asymptotic acceptance rate of this new class of proposals and show that it is an improvement over simpler RWM type proposals. 
+
+

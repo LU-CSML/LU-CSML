@@ -1,0 +1,6 @@
+<p>
+<h2>The iterated auxiliary particle filter</h2>
+
+We present an offline, iterated particle filter to facilitate statistical inference in general state space hidden Markov models. Given a model and a sequence of observations, the associated marginal likelihood L is central to likelihood-based inference for unknown statistical parameters. We define a class of "twisted" models: each member is specified by a sequence of positive functions psi and has an associated psi-auxiliary particle filter that provides unbiased estimates of L. We identify a sequence psi* that is optimal in the sense that the psi*-auxiliary particle filter's estimate of L has zero variance. In practical applications, psi* is unknown so the psi*-auxiliary particle filter cannot straightforwardly be implemented. We use an iterative scheme to approximate psi*, and demonstrate empirically that the resulting iterated auxiliary particle filter significantly outperforms the bootstrap particle filter in challenging settings. Applications include parameter estimation using a particle Markov chain Monte Carlo algorithm and approximation of conditioned diffusion sample paths. [arxiv: 1511.06286]
+
+
