@@ -10,8 +10,12 @@ title: Talks
 
 <ul>
 <li>
+18/5 2pm-4pm PSC A54 <br> Chris Sherlock <em> Asymptotic variance and geometric convergence of MCMC: variational representations </em> [tutorial] [<a href="Abstracts2017/Sherlock_2017_05_abstract.html">Abstract</a>]
+</li>
+<li>
 26/1 2pm PSC A54 <br> Chris Sherlock <em>Delayed-acceptance MCMC with examples: advantages and pitfalls and how to avoid the latter</em>  [<a href="Abstracts2017/Sherlock_2017_01_abstract.html">Abstract</a>]
-</li></ul>
+</li>
+</ul>
 
 <p>
 </p><h2>2016</h2>
