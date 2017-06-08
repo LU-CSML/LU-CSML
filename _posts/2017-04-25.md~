@@ -1,0 +1,17 @@
+---
+layout: post
+title: Bayes Comp 2018
+---
+
+This week we'll be looking at the recently arXived "Discontinuous Hamiltonian Monte Carlo for sampling discrete parameters" [arXiv](https://arxiv.org/abs/1705.08510) by Nishimura et al.
+
+[Bayes Comp 2018](https://www.maths.nottingham.ac.uk/personal/tk/bayescomp/) is a biannual conference sponsored by the ISBA section 
+of the same name. The conference and the section both aim to promote 
+original research into computational methods for inference and decision 
+making and to encourage the use of frontier computational tools among 
+practitioners, the development of adapted software, languages, 
+platforms, and dedicated machines, and to translate and disseminate 
+methods developed in other disciplines among statisticians.
+
+Bayes Comp 2018 is current incarnation of the popular MCMSki series of
+conferences.
