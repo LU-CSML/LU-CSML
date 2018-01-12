@@ -3,6 +3,9 @@ layout: page
 title: Talks
 ---
 
+<p>
+</p>
+<h2>2018</h2>
 
 <p>
 </p>
@@ -10,8 +13,25 @@ title: Talks
 
 <ul>
 <li>
+07/12 3pm-4pm PSC A54 <br> Gareth Ridall <em> Sequential Bayesian estimation and model selection </em> [<a href="Abstracts2017/Ridall_2017_12_abstract.html">Abstract</a>]
+</li>
+
+<li>
+29/11 11am-12pm PSC A54 <br> Chris Nemeth <em>  Pseudo-extended MCMC </em> [<a href="Abstracts2017/Nemeth_2017_11_abstract.html">Abstract</a>]
+</li>
+
+<li>
+09/11 3pm-4pm PSC A54 <br> Luke Kelly <em> Lateral trait transfer in phylogenetic inference </em> [<a href="Abstracts2017/Kelly_2017_11_abstract.html>Abstract</a>]
+<\li>
+
+<li>
+01/11 2pm-3pm PSC A54 <br> Yee Whye Teh <em>  On Bayesian Deep Learning and Deep Bayesian Learning </em> [<a href="Abstracts2017/Teh_2017_11_abstract.html>Abstract</a>]
+<\li>
+
+<li>
 18/5 2pm-4pm PSC A54 <br> Chris Sherlock <em> Asymptotic variance and geometric convergence of MCMC: variational representations </em> [tutorial] [<a href="Abstracts2017/Sherlock_2017_05_abstract.html">Abstract</a>]
 </li>
+
 <li>
 26/1 2pm PSC A54 <br> Chris Sherlock <em>Delayed-acceptance MCMC with examples: advantages and pitfalls and how to avoid the latter</em>  [<a href="Abstracts2017/Sherlock_2017_01_abstract.html">Abstract</a>]
 </li>
