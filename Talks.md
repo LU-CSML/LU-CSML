@@ -25,7 +25,7 @@ title: Talks
 </li>
 
 <li>
-01/11 2pm-3pm PSC A54 <br> Yee Whye Teh <em>  On Bayesian Deep Learning and Deep Bayesian Learning </em> [<a href="../Abstracts2017/Teh_2017_11_abstract.html">Abstract</a>]
+01/11 2pm-3pm PSC A54 <br> Yee Whye Teh <em>  On Bayesian Deep Learning and Deep Bayesian Learning </em> [<a href="Abstracts2017/Teh_2017_11_abstract.html">Abstract</a>]
 </li>
 
 <li>
