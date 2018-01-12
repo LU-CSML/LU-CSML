@@ -21,11 +21,11 @@ title: Talks
 </li>
 
 <li>
-09/11 3pm-4pm PSC A54 <br> Luke Kelly <em> Lateral trait transfer in phylogenetic inference </em> [<a href="Abstracts2017/Kelly_2017_11_abstract.html>Abstract</a>]
+09/11 3pm-4pm PSC A54 <br> Luke Kelly <em> Lateral trait transfer in phylogenetic inference </em> [<a href="Abstracts2017/Kelly_2017_11_abstract.html">Abstract</a>]
 <\li>
 
 <li>
-01/11 2pm-3pm PSC A54 <br> Yee Whye Teh <em>  On Bayesian Deep Learning and Deep Bayesian Learning </em> [<a href="Abstracts2017/Teh_2017_11_abstract.html>Abstract</a>]
+01/11 2pm-3pm PSC A54 <br> Yee Whye Teh <em>  On Bayesian Deep Learning and Deep Bayesian Learning </em> [<a href="Abstracts2017/Teh_2017_11_abstract.html">Abstract</a>]
 <\li>
 
 <li>
