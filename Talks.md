@@ -22,11 +22,11 @@ title: Talks
 
 <li>
 09/11 3pm-4pm PSC A54 <br> Luke Kelly <em> Lateral trait transfer in phylogenetic inference </em> [<a href="Abstracts2017/Kelly_2017_11_abstract.html">Abstract</a>]
-</li>
+<\li>
 
 <li>
 01/11 2pm-3pm PSC A54 <br> Yee Whye Teh <em>  On Bayesian Deep Learning and Deep Bayesian Learning </em> [<a href="Abstracts2017/Teh_2017_11_abstract.html">Abstract</a>]
-</li>
+<\li>
 
 <li>
 18/5 2pm-4pm PSC A54 <br> Chris Sherlock <em> Asymptotic variance and geometric convergence of MCMC: variational representations </em> [tutorial] [<a href="Abstracts2017/Sherlock_2017_05_abstract.html">Abstract</a>]
