@@ -11,17 +11,18 @@ title: Talks
 </p>
 <h2>2017</h2>
 
+<!---
 <ul>
 <li>
 07/12 3pm-4pm PSC A54 <br> Gareth Ridall <em> Sequential Bayesian estimation and model selection </em> [<a href="Abstracts2017/Ridall_2017_12_abstract.html">Abstract</a>]
 </li>
 
 <li>
-29/11 11am-12pm PSC A54 <br> Chris Nemeth <em>  Pseudo-extended MCMC </em> [<a href="Abstracts2017/Nemeth_2017_11_abstract.html">Abstract</a>]
+29/11 11am-12pm PSC A54 <br> Chris Nemeth <em>  Pseudo-extended MCMC </em> [<a href="../Abstracts2017/Nemeth_2017_11_abstract.html">Abstract</a>]
 </li>
 
 <li>
-09/11 3pm-4pm PSC A54 <br> Luke Kelly <em> Lateral trait transfer in phylogenetic inference </em> [<a href="Abstracts2017/Kelly_2017_11_abstract.html">Abstract</a>]
+09/11 3pm-4pm PSC A54 <br> Luke Kelly <em> Lateral trait transfer in phylogenetic inference </em> [<a href="../Abstracts2017/Kelly_2017_11_abstract.html">Abstract</a>]
 </li>
 
 <li>
@@ -36,7 +37,7 @@ title: Talks
 26/1 2pm PSC A54 <br> Chris Sherlock <em>Delayed-acceptance MCMC with examples: advantages and pitfalls and how to avoid the latter</em>  [<a href="Abstracts2017/Sherlock_2017_01_abstract.html">Abstract</a>]
 </li>
 </ul>
-
+--->
 <p>
 </p><h2>2016</h2>
 
