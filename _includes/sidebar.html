@@ -16,7 +16,7 @@
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
-
+      <!---
       {% assign pages_list = site.pages %}
       {% for node in pages_list %}
         {% if node.title != null %}
@@ -25,13 +25,11 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
-      <!---
-      <a class="sidebar-nav-item active" href="/Discussion_Papers/">Discussion Papers</a>
-      <a class="sidebar-nav-item active" href="/Talks/">Talks</a>
-      <a class="sidebar-nav-item active" href="/Software/">Software</a>    
+	    --->
+      <a class="sidebar-nav-item" href="https://lu-csml.github.io/Discussion_Papers">Discussion Papers</a>
+      <a class="sidebar-nav-item" href="https://lu-csml.github.io/Talks">Talks</a>
+      <a class="sidebar-nav-item" href="https://lu-csml.github.io/Software">Software</a>    
       <a class="sidebar-nav-item" href="https://lu-csml.github.io/Contact">Contact</a>
-      --->
       <br>
       <p class="lead">External Links</p>
       <a class="sidebar-nav-item" href="http://www.lancaster.ac.uk/maths/research/statistics/modelling-and-inference/#staff">People</a>
