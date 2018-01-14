@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Asymptotic variance and geometric convergence of MCMC: variational representations
