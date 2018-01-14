@@ -4,10 +4,28 @@ title: Papers
 ---
 
 
+<h2>2018</h2>
+<ul>
+
+<li>
+18/01 <br> Marzouk et al <em> An introduction to sampling via measure transport </em> [<a href="https://arxiv.org/abs/1602.05023">arXiv</a>]
+</li>
+
+
+</ul>
+
 <h2>2017</h2>
 
-
 <ul>
+
+<li>
+16/11 <br> Goncalves et al <em> Barker's algorithm for Bayesian inference with intractable likelihoods </em> [<a href="https://arxiv.org/abs/1709.07710">arXiv</a>]
+</li>
+
+<li>
+26/10 <br> Polson et al <em> Deep Learning: A Bayesian Perspective</em> [<a href="https://arxiv.org/abs/1706.00473">arXiv</a>]
+</li>
+
 <li>
 01/06 <br> Nishimura et al -<em>Discontinuous Hamiltonian Monte Carlo for sampling discrete parameters</em>  [<a href="https://arxiv.org/abs/1705.08510">arXiv</a>]
 </li>
@@ -15,7 +33,6 @@ title: Papers
 <li>
 11/05 <br> Graham and Storkey -<em>Continuously tempered Hamiltonian Monte Carlo</em>  [<a href="https://arxiv.org/pdf/1704.03338.pdf">arXiv</a>]
 </li>
-
 
 <li>
 27/04 <br> Pakman et al.-<em>Stochastic bouncy particle sampler</em>  [<a href="https://arxiv.org/pdf/1609.00770.pdf">arXiv</a>]
