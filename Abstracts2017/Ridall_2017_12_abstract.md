@@ -5,7 +5,6 @@ title: Sequential Bayesian estimation and model selection
 
 Work done in collaboration with Tony Pettitt from QUT Brisbane.
 
-<br><br>
 I would like to:
 1. Introduce the Dirichlet form, which can be thought of as a generalisation of expected squared jumping distance, and show that the spectral gap has a variational representation over Dirichlet forms.  
 2. Introduce the asymptotic variance of a Markov chain, which is the theoretical equivalent of the practical measure of 1/effective sample size, and provide a variational representation of this. Amongst other results this leads to a trivial proof of the Peskun ordering.
