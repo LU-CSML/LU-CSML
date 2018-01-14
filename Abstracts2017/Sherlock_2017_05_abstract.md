@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Asymptotic variance and geometric convergence of MCMC: variational representations
+title: Asymptotic variance and geometric convergence of MCMC&#58; variational representations
 ---
 
 An MCMC algorithm is geometrically ergodic if it converges to the intended posterior geometrically in the number of iterations. A number of useful properties follow from geometric ergodicity, including that the practical efficiency measure of "effective sample size" is meaningful for any sensible function of interest. The standard method for proving geometric ergodicity for a particular algorithm involves a "drift condition" and a "small set", and can be time consuming, both in the proof itself and in understanding why the drift condition and small set are helpful.
