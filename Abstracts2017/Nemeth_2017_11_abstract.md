@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: Pseudo-extended MCMC - Chris Nemeth
+title: Pseudo extended MCMC  Chris Nemeth
 ---
 
 MCMC algorithms are a class of exact methods used for sampling from target distributions. If the target is multimodal, MCMC algorithms often struggle to explore all of the modes of the target within a reasonable number of iterations. This issue can become even more pronounced when using efficient gradient-based samplers, such as HMC, which tend to tend to become trapped local modes.
