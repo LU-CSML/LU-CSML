@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Pseudo extended MCMC  Chris Nemeth
