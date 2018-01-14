@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Delayed-acceptance MCMC with examples: advantages and pitfalls and how to avoid the latter
