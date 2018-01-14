@@ -14,7 +14,7 @@ title: Talks
 
 <ul>
 <li>
-07/12 3pm-4pm PSC A54 <br> Gareth Ridall <em> Sequential Bayesian estimation and model selection </em> [<a href="Abstracts2017/Ridall_2017_12_abstract.html">Abstract</a>]
+07/12 3pm-4pm PSC A54 <br> Gareth Ridall <em> Sequential Bayesian estimation and model selection </em> [<a href="../Abstracts2017/Ridall_2017_12_abstract.html">Abstract</a>]
 </li>
 
 <li>
@@ -30,11 +30,11 @@ title: Talks
 </li>
 
 <li>
-18/5 2pm-4pm PSC A54 <br> Chris Sherlock <em> Asymptotic variance and geometric convergence of MCMC: variational representations </em> [tutorial] [<a href="Abstracts2017/Sherlock_2017_05_abstract.html">Abstract</a>]
+18/5 2pm-4pm PSC A54 <br> Chris Sherlock <em> Asymptotic variance and geometric convergence of MCMC: variational representations </em> [tutorial] [<a href="../Abstracts2017/Sherlock_2017_05_abstract.html">Abstract</a>]
 </li>
 
 <li>
-26/1 2pm PSC A54 <br> Chris Sherlock <em>Delayed-acceptance MCMC with examples: advantages and pitfalls and how to avoid the latter</em>  [<a href="Abstracts2017/Sherlock_2017_01_abstract.html">Abstract</a>]
+26/1 2pm PSC A54 <br> Chris Sherlock <em>Delayed-acceptance MCMC with examples: advantages and pitfalls and how to avoid the latter</em>  [<a href="../Abstracts2017/Sherlock_2017_01_abstract.html">Abstract</a>]
 </li>
 </ul>
 
@@ -43,25 +43,25 @@ title: Talks
 
 <ul>
 <li>
-6/12 2pm PSC A54 <br> Jack Baker <em>An overview of Bayesian non-parametrics</em>  [<a href="Abstracts2016/Baker_2016_12_abstract.html">Abstract</a>]
+6/12 2pm PSC A54 <br> Jack Baker <em>An overview of Bayesian non-parametrics</em>  [<a href="../Abstracts2016/Baker_2016_12_abstract.html">Abstract</a>]
 </li><li>
-17/11 2pm PSC A54 <br> Wentao Li <em>Improved Convergence of Regression Adjusted Approximate Bayesian Computation</em>  [<a href="Abstracts2016/Li_2016_11_abstract.html">Abstract</a>]
+17/11 2pm PSC A54 <br> Wentao Li <em>Improved Convergence of Regression Adjusted Approximate Bayesian Computation</em>  [<a href="../Abstracts2016/Li_2016_11_abstract.html">Abstract</a>]
 </li><li>
-20/10 2pm PSC Lab2 <br> Paul Fearnhead <em>The Scalable Langevin Exact Algorithm: Bayesian Inference for Big Data</em>  [<a href="Abstracts2016/Fearnhead_2016_10_abstract.html">Abstract</a>]
+20/10 2pm PSC Lab2 <br> Paul Fearnhead <em>The Scalable Langevin Exact Algorithm: Bayesian Inference for Big Data</em>  [<a href="../Abstracts2016/Fearnhead_2016_10_abstract.html">Abstract</a>]
 </li><li>
-2/7 2pm B49 <br> Adam Johansen <em>The iterated auxiliary particle filter</em>  [<a href="Abstracts2016/Johansen_2016_07_abstract.html">Abstract</a>]
+2/7 2pm B49 <br> Adam Johansen <em>The iterated auxiliary particle filter</em>  [<a href="../Abstracts2016/Johansen_2016_07_abstract.html">Abstract</a>]
 </li><li>
-19/5 2pm PSC Lab2 <br> Chris Sherlock <em>Pseudo-marginal MCMC using averages of unbiased estimators</em> [<a href="Abstracts2016/Sherlock_2016_05_abstract.html">Abstract</a>]
+19/5 2pm PSC Lab2 <br> Chris Sherlock <em>Pseudo-marginal MCMC using averages of unbiased estimators</em> [<a href="../Abstracts2016/Sherlock_2016_05_abstract.html">Abstract</a>]
 </li><li>
-9/5 2pm PSC LT <br> Joris Bierkens (Warwick University) <em>Super-efficient sampling using Zig Zag Monte Carlo</em> [<a href="Abstracts2016/Bierkens_2016_05_abstract.html">Abstract</a>]
+9/5 2pm PSC LT <br> Joris Bierkens (Warwick University) <em>Super-efficient sampling using Zig Zag Monte Carlo</em> [<a href="../Abstracts2016/Bierkens_2016_05_abstract.html">Abstract</a>]
 </li><li>
 14/4 2pm PSC Lab1 <br> Paul Fearnhead <em>Research opportunities with MCMC and Big Data</em>
 </li><li>
-17/3 2pm PSC LT <br> Peter Neal <em>Optimal scaling of the independence sampler</em> [<a href="Abstracts2016/Neal_2016_03_abstract.html">Abstract</a>]
+17/3 2pm PSC LT <br> Peter Neal <em>Optimal scaling of the independence sampler</em> [<a href="../Abstracts2016/Neal_2016_03_abstract.html">Abstract</a>]
 </li><li>
-25/2 2pm PSC LT <br> Paul Fearnhead <em>Continuous-Time Importance Sampling (and MCMC)</em> [<a href="Abstracts2016/Fearnhead_2016_02_abstract.html">Abstract</a>]
+25/2 2pm PSC LT <br> Paul Fearnhead <em>Continuous-Time Importance Sampling (and MCMC)</em> [<a href="../Abstracts2016/Fearnhead_2016_02_abstract.html">Abstract</a>]
 </li><li>
-18/2 2pm PSC LT <br> Borja de Balle Pigem <em>Differentially Private Policy Evaluation</em> [<a href="Abstracts2016/Balle_2016_02_abstract.html">Abstract</a>]
+18/2 2pm PSC LT <br> Borja de Balle Pigem <em>Differentially Private Policy Evaluation</em> [<a href="../Abstracts2016/Balle_2016_02_abstract.html">Abstract</a>]
 
 </li></ul>
 
@@ -72,13 +72,13 @@ title: Talks
 10/12 2pm PSC LT <br> Jack Baker <em>STAN</em> [<a href="Abstracts2015/Baker_2015_12_10_abstract.html">Abstract</a>]
 </li><li> 26/11 2pm PSC Lab2 <br> Paul Fearnhead <em> Discussion of "The Bouncy Particle Sampler: A Non-Reversible Rejection-Free Markov Chain Monte Carlo Method"</em> [<a href="http://arxiv.org/abs/1510.02451">arXiv</a>] <em>and of "A Markov Jump Process for More Efficient Hamiltonian Monte Carlo"</em> [<a href="http://arxiv.org/pdf/1509.03808.pdf">arXiv</a>].
 
-</li><li> 15/10 2pm PSC LT. <br> James Hensman. <em> Variational inference in Gaussian process models</em> [<a href="Abstracts2015/Hensman_2015_10_15_abstract.html">Abstract</a>]
-</li><li> 19/05 12pm PSC LT. <br> Alexandre Thiery (National University of Singapore). <em> Asymptotic Analysis of Random-Walk Metropolis on Ridged Densities </em> [<a href="Abstracts2015/Thiery_2015_05_19_abstract.html">Abstract</a>].
+</li><li> 15/10 2pm PSC LT. <br> James Hensman. <em> Variational inference in Gaussian process models</em> [<a href="../Abstracts2015/Hensman_2015_10_15_abstract.html">Abstract</a>]
+</li><li> 19/05 12pm PSC LT. <br> Alexandre Thiery (National University of Singapore). <em> Asymptotic Analysis of Random-Walk Metropolis on Ridged Densities </em> [<a href="../Abstracts2015/Thiery_2015_05_19_abstract.html">Abstract</a>].
 
 </li><li> 28/04 1pm PSC LT. <br> Chris Sherlock. <em> Delayed acceptance particle marginal random walk Metropolis algorithms
-and their optimisation </em> [<a href="Abstracts2015/Sherlock_2015_04_28_abstract.html">Abstract</a>].
+and their optimisation </em> [<a href="../Abstracts2015/Sherlock_2015_04_28_abstract.html">Abstract</a>].
 
-</li><li> 05/03 2pm PSC LT. <br> Chris Nemeth. <em>Bayesian Inference for Big Data: Current and Future Directions</em> [<a href="Abstracts2015/Nemeth_03_05_abstract.html">Abstract</a>].
+</li><li> 05/03 2pm PSC LT. <br> Chris Nemeth. <em>Bayesian Inference for Big Data: Current and Future Directions</em> [<a href="../Abstracts2015/Nemeth_03_05_abstract.html">Abstract</a>].
 
 </li></ul>
 
@@ -88,12 +88,12 @@ and their optimisation </em> [<a href="Abstracts2015/Sherlock_2015_04_28_abstrac
 
 <li> 18/12 2pm PSC LT. <br> Wentao Li. <em>Discussion of the RSS read paper: "Sequential Quasi Monte Carlo" by Mathieu Gerber and Nicolas Chopin.</em>
 
-</li><li> 28/11 11am PSC LT. <br> Chris Nemeth. <em>Particle Metropolis adjusted Langevin algorithms</em> [<a href="Abstracts2014/Nemeth_2014_11_28_abstract.html">Abstract</a>].
+</li><li> 28/11 11am PSC LT. <br> Chris Nemeth. <em>Particle Metropolis adjusted Langevin algorithms</em> [<a href="../Abstracts2014/Nemeth_2014_11_28_abstract.html">Abstract</a>].
 
 </li><li> 11/03 2pm PSC LT. <br> Paul Fearnhead.
-<em>Reparameterisations for Particle MCMC</em> [<a href="Abstracts2014/Fearnhead_2014_03_11_abstract.html">Abstract</a>].
+<em>Reparameterisations for Particle MCMC</em> [<a href="../Abstracts2014/Fearnhead_2014_03_11_abstract.html">Abstract</a>].
 
-</li><li> 25/02 2pm PSC LT. <br> Vasileios Maroulas (University of Tennessee). <em>Filtering, drift homotopy and target tracking</em> [<a href="Abstracts2014/Maroulas_abstract.html">Abstract</a>].
+</li><li> 25/02 2pm PSC LT. <br> Vasileios Maroulas (University of Tennessee). <em>Filtering, drift homotopy and target tracking</em> [<a href="../Abstracts2014/Maroulas_abstract.html">Abstract</a>].
 </li></ul>
 
 <p>
@@ -101,7 +101,7 @@ and their optimisation </em> [<a href="Abstracts2015/Sherlock_2015_04_28_abstrac
 </p><h2>2013</h2>
 
 <ul>
-<li> 11/12 1pm PSC LT. <br> Dennis Prangle (Universtity of Bristol). <em>Speeding ABC inference using early-stopping simulations</em> [<a href="dennis_abstract2.html">Abstract</a>].
+<li> 11/12 1pm PSC LT. <br> Dennis Prangle (Universtity of Bristol). <em>Speeding ABC inference using early-stopping simulations</em> [<a href="../dennis_abstract2.html">Abstract</a>].
   </li><li>09/05  2pm PSC LT.<br>  Chris Sherlock.  <em>Properties and Optimisation of the Pseudo Marginal RWM. </em>
   </li><li>17/04  2pm PSC LT. <br> Anthony Lee (University of Warwick). <em>Particle Markov chain Monte Carlo and marginal likelihood estimation: strategies for improvement.</em>
   </li><li>22/03.<br>  Dennis Prangle.  <em>Likelihood-free parameter estimation for state space models</em>    
@@ -133,7 +133,7 @@ and their optimisation </em> [<a href="Abstracts2015/Sherlock_2015_04_28_abstrac
 </li><li>
 14/02 @ 12.00pm (A54 Lecture Theatre)
 <br>
-<em>Summary statistics for ABC model choice </em> - Dennis Prangle. [<a href="dennis_abstract.html">Abstract</a>].
+<em>Summary statistics for ABC model choice </em> - Dennis Prangle. [<a href="../dennis_abstract.html">Abstract</a>].
 
 </li></ul>
 
@@ -155,7 +155,7 @@ and their optimisation </em> [<a href="Abstracts2015/Sherlock_2015_04_28_abstrac
 </li><li>
 17/06 @ 12.00pm (Lab1 PSC)
 <br>
-<em>Online inference and model selection using sequential Monte Carlo</em> - Gareth Ridall. [<a href="ridall_abstract.html">Abstract</a>].
+<em>Online inference and model selection using sequential Monte Carlo</em> - Gareth Ridall. [<a href="../ridall_abstract.html">Abstract</a>].
 </li><li>
 24/05 @ 12.00pm (A54 Lecture Theatre)
 <br>
@@ -203,7 +203,7 @@ model with discretely observed data</em> - Krzysztof Latuszynski (University of 
 09/03 1pm <br><em>Particle
 Filters for models with fixed parameters </em> - Paul Fearnhead
 </li><li>
-16/02 <br> <em>Reading group on Particle MCMC and the pseudo marginal algorithm</em> - led by Gareth Ridall. Giorgos' guide to the <a href="pseudo_marginalGS.pdf">pseudo marginal algorithm</a>; Ben Taylor's slides on <a href="compstats_PIMH_BT.pdf">PIMH</a>; Dennis Prangle's slides on <a href="PMCMC_DP.pdf">PIMH</a>.
+16/02 <br> <em>Reading group on Particle MCMC and the pseudo marginal algorithm</em> - led by Gareth Ridall. Giorgos' guide to the pseudo marginal algorithm;
 </li></ul>
 
 <p>
@@ -256,7 +256,7 @@ Filters for models with fixed parameters </em> - Paul Fearnhead
 
 <p>
 
-<em>Last updated 6/12/2013</em>
+<em>Last updated 14/01/2018</em>
 
 
 </p>
