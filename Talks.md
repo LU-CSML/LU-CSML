@@ -14,7 +14,7 @@ title: Talks
 
 <ul>
 <li>
-07/12 3pm-4pm PSC A54 <br> Gareth Ridall <em> Sequential Bayesian estimation and model selection </em> [<a href="../Abstracts2017/Ridall_2017_12_abstract.html">Abstract</a>]
+07/12 3pm-4pm PSC A54 <br> Gareth Ridall <em> Sequential Bayesian estimation and model selection </em> [<a href="../Abstracts2017/Ridall_2017_12_abstract">Abstract</a>]
 </li>
 
 <li>
@@ -69,7 +69,7 @@ title: Talks
 
 <ul>
 <li>
-10/12 2pm PSC LT <br> Jack Baker <em>STAN</em> [<a href="Abstracts2015/Baker_2015_12_10_abstract.html">Abstract</a>]
+10/12 2pm PSC LT <br> Jack Baker <em>STAN</em> [<a href="../Abstracts2015/Baker_2015_12_10_abstract.html">Abstract</a>]
 </li><li> 26/11 2pm PSC Lab2 <br> Paul Fearnhead <em> Discussion of "The Bouncy Particle Sampler: A Non-Reversible Rejection-Free Markov Chain Monte Carlo Method"</em> [<a href="http://arxiv.org/abs/1510.02451">arXiv</a>] <em>and of "A Markov Jump Process for More Efficient Hamiltonian Monte Carlo"</em> [<a href="http://arxiv.org/pdf/1509.03808.pdf">arXiv</a>].
 
 </li><li> 15/10 2pm PSC LT. <br> James Hensman. <em> Variational inference in Gaussian process models</em> [<a href="../Abstracts2015/Hensman_2015_10_15_abstract.html">Abstract</a>]
